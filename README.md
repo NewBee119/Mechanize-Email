@@ -1,0 +1,2 @@
+# cube_test
+使用mechanize对谷歌做模拟点击以及模拟点击失败之后的email通知
