@@ -40,7 +40,6 @@ br.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit
 def sendreport(content,count):
 	msg_from = '????????@qq.com'#发件人邮箱
 	passwd = '????????????????'#授权码
-	# msg_to = '1265616844@qq.com'
 	msg_to = ['user-1@example.com','user-2@example.com']
 	c = ",".join(msg_to)#收件人邮箱
 	 
