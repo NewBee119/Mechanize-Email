@@ -22,7 +22,5 @@
 
     一次查询结果
 ![image](https://github.com/scu-igroup/cube_test/blob/master/Images/3.png)  
->模拟点击失败后通过Python email库发送邮件通知
-
-    邮件发送
+    模拟点击失败后通过Python email库发送邮件通知
 ![image](https://github.com/scu-igroup/cube_test/blob/master/Images/1.png)
