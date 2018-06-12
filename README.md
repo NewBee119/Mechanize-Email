@@ -2,7 +2,9 @@
 
 
 ### 简介 
-    使用使用Python mechanize库对百度和谷歌做周期性地模拟点击，在连接失败时发送邮件到指定邮箱
+    使用使用Python mechanize库对百度和谷歌做周期性地模拟点击
+    通过Python evenlet库克服mechanize连接失败时、程序无法退出的问题
+    通过Python email库，在连接失败时发送邮件到指定邮箱
 
 ### 使用条件
     Python Library:
